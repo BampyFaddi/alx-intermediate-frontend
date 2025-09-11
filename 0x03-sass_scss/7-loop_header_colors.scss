@@ -1,0 +1,7 @@
+$colors: "red", "green", "blue";
+
+@each $color in $colors {
+  h1.#{$color} {
+    color: #{$color};
+  }
+}

@@ -1,0 +1,10 @@
+# Steps to install SASS
+
+# 1. Ensure Node.js is installed (v20.16.0 recommended)
+#    Download from https://nodejs.org/ if not installed
+
+# 2. Install SASS version 3.7.4 using npm
+npm install sass@3.7.4
+
+# 3. Verify the installation
+npx sass --version

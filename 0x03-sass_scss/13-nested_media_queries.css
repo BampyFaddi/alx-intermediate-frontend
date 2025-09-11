@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    width: 970px;
+  }
+}
+
+/*# sourceMappingURL=13-nested_media_queries.css.map */

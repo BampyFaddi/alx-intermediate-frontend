@@ -1,0 +1,12 @@
+.button {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+}
+.button:hover {
+  background-color: #2980b9;
+}
+
+/*# sourceMappingURL=2-nested_hover.css.map */

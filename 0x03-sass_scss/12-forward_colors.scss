@@ -1,0 +1,6 @@
+@use 'main' as m;
+
+body {
+  background-color: m.$primary-color;
+  color: m.$secondary-color;
+}
