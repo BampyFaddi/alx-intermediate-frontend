@@ -55,6 +55,5 @@ Course: ALX Intermediate Frontend
 
 ---
 
-Once you create this file and save it, reply **“done”** and I’ll guide you through the **final Git initialization + GitHub push** steps to submit the whole project.  
 
 Shall we?
