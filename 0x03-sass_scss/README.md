@@ -54,6 +54,3 @@ Course: ALX Intermediate Frontend
 
 
 ---
-
-
-Shall we?
